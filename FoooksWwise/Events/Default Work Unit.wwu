@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{437ED564-7FED-4579-BE85-42F2957B32FE}" SchemaVersion="75">
 	<Events>
-		<WorkUnit Name="Default Work Unit" ID="{437ED564-7FED-4579-BE85-42F2957B32FE}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{437ED564-7FED-4579-BE85-42F2957B32FE}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Plyr_Footstep" ID="{B88BA1BC-F048-417E-8704-682C3E9A3F06}">
+					<ChildrenList>
+						<Action Name="Play" ID="{C4336A43-355F-42D3-AC58-3B0066C68B84}" ShortID="35710053" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{91EA26CF-DD11-4699-8578-88F646BF8A30}" Global="false">
+									<ObjectRef Name="Stone" ID="{216D8536-76E0-42D4-9060-8CBF14AB8642}" WorkUnitID="{DFC94D61-3033-4448-B4AD-0AD1CC21B392}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Whistle" ID="{088C8942-0B19-470E-87C3-CC4D84A9BAEF}">
+					<ChildrenList>
+						<Action Name="Play" ID="{AF47127C-C088-4E6D-9D99-270F1E6DC9D1}" ShortID="540686684" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{2AF5E03E-8675-4305-A419-375A0D18CFBB}" Global="false">
+									<ObjectRef Name="Whistle" ID="{2A3E8ACE-14D7-4D3E-ABCA-9D4D7B03D7B5}" WorkUnitID="{DFC94D61-3033-4448-B4AD-0AD1CC21B392}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
 	</Events>
 </WwiseDocument>

@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{BD0DB0FB-D3E7-4452-BA0D-702AC711776D}" SchemaVersion="75">
 	<SoundBanks>
-		<WorkUnit Name="Default Work Unit" ID="{BD0DB0FB-D3E7-4452-BA0D-702AC711776D}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{BD0DB0FB-D3E7-4452-BA0D-702AC711776D}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Master" ID="{50109EA9-AF61-4ABE-AA2F-24224E6A262A}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Plyr_Footstep" ID="{B88BA1BC-F048-417E-8704-682C3E9A3F06}" WorkUnitID="{437ED564-7FED-4579-BE85-42F2957B32FE}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Whistle" ID="{088C8942-0B19-470E-87C3-CC4D84A9BAEF}" WorkUnitID="{437ED564-7FED-4579-BE85-42F2957B32FE}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
 	</SoundBanks>
 </WwiseDocument>

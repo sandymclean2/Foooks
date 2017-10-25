@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IncrementalBankBuild Version="6" Flags="601859981">
+	<Platform GUID="{E70F7544-0802-4583-86F3-EBFD2C83A999}">
+		<Banks>
+			<Language ID="0">
+				<File Name="Init" Hash="593700967" Timestamp="131533826680000000"/>
+				<File Name="Master" Hash="3364786069" Timestamp="131533837050000000"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="-1">
+				<File Name="" Hash="3896430816" Timestamp="131533837050000000"/>
+			</Language>
+		</XMLInfo>
+	</Platform>
+</IncrementalBankBuild>

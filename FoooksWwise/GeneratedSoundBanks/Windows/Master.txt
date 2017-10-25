@@ -1,0 +1,8 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2693257580	Play_Whistle			\Default Work Unit\Play_Whistle	
+	4254456693	Plyr_Footstep			\Default Work Unit\Plyr_Footstep	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	698233453	Footsteps Wooden Stairs Sneakers Walk Up Down 05	Z:\Volumes\Hard drive\Foooks\FoooksWwise\.cache\Windows\SFX\Footsteps Wooden Stairs Sneakers Walk Up Down 05_A5F19E23.wem		\Actor-Mixer Hierarchy\Default Work Unit\Jeff Quinn\Player\Footsteps\Stone\Footsteps Wooden Stairs Sneakers Walk Up Down 05		63744
+	867178621	Whistle	Z:\Volumes\Hard drive\Foooks\FoooksWwise\.cache\Windows\SFX\Whistle-Female-Late Twenties-Wolf Whistle-Slow-Appreciation-Cat Call-Mono.M_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Jeff Quinn\Player\Whistle		315456
+

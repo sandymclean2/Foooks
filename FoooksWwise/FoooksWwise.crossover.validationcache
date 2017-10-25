@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="75">
-	<ValidationCacheItem File="Z:\Volumes\Hard drive\Foooks\FoooksWwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="803074176" DateHigh="30625094"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\Foooks\FoooksWwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="2418368512" DateHigh="30625103"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\Foooks\FoooksWwise\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1938535040" DateHigh="30623885"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\Foooks\FoooksWwise\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1938535040" DateHigh="30623885"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\Foooks\FoooksWwise\Attenuations\Default Work Unit.wwu" DateLow="803074176" DateHigh="30625094"/>
@@ -20,7 +20,8 @@
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\Foooks\FoooksWwise\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1938535040" DateHigh="30623885"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\Foooks\FoooksWwise\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1938535040" DateHigh="30623885"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\Foooks\FoooksWwise\Effects\Factory McDSP Effects.wwu" DateLow="1938535040" DateHigh="30623885"/>
-	<ValidationCacheItem File="Z:\Volumes\Hard drive\Foooks\FoooksWwise\Events\Default Work Unit.wwu" DateLow="803074176" DateHigh="30625094"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\Foooks\FoooksWwise\Events\Default Work Unit.wwu" DateLow="883401216" DateHigh="30625104"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\Foooks\FoooksWwise\FoooksWwise.crossover.wsettings" DateLow="1223466624" DateHigh="30625106"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\Foooks\FoooksWwise\FoooksWwise.wproj" DateLow="803074176" DateHigh="30625094"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\Foooks\FoooksWwise\Game Parameters\Default Work Unit.wwu" DateLow="803074176" DateHigh="30625094"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\Foooks\FoooksWwise\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1938535040" DateHigh="30623885"/>
@@ -31,7 +32,7 @@
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\Foooks\FoooksWwise\Presets\Default Work Unit.wwu" DateLow="803074176" DateHigh="30625094"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\Foooks\FoooksWwise\Queries\Default Work Unit.wwu" DateLow="803074176" DateHigh="30625094"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\Foooks\FoooksWwise\Queries\Factory Queries.wwu" DateLow="1938535040" DateHigh="30623885"/>
-	<ValidationCacheItem File="Z:\Volumes\Hard drive\Foooks\FoooksWwise\SoundBanks\Default Work Unit.wwu" DateLow="803074176" DateHigh="30625094"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\Foooks\FoooksWwise\SoundBanks\Default Work Unit.wwu" DateLow="2938433920" DateHigh="30625105"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\Foooks\FoooksWwise\Soundcaster Sessions\Default Work Unit.wwu" DateLow="803074176" DateHigh="30625094"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\Foooks\FoooksWwise\States\Default Work Unit.wwu" DateLow="803074176" DateHigh="30625094"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\Foooks\FoooksWwise\Switches\Default Work Unit.wwu" DateLow="803074176" DateHigh="30625094"/>
