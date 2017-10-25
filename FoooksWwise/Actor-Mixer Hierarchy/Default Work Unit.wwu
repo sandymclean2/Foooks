@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{DFC94D61-3033-4448-B4AD-0AD1CC21B392}" SchemaVersion="75">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{DFC94D61-3033-4448-B4AD-0AD1CC21B392}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Master" ID="{4A0F66E9-F95B-4967-AF6F-34877EBB1183}" ShortID="132910426"/>
+				<Folder Name="Jeff Hilman" ID="{D0C6B076-3B45-4696-8297-590D11546B92}" ShortID="988909406"/>
+				<Folder Name="Jeff Quinn" ID="{03F8E04B-E695-42B4-A6B3-0183F272BC6D}" ShortID="268798919"/>
+				<Folder Name="Sandy Hughes" ID="{25A1A9EF-8A91-4F64-BF9C-E4BA427375C5}" ShortID="512551128"/>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
